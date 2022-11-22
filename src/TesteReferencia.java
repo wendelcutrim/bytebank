@@ -18,6 +18,10 @@ public class TesteReferencia {
 		} else {
 			 System.out.println("Não são iguais!");
 		}
+		
+		int[] numbers = {0, 1, 2};
+		
+		System.out.println(numbers.length);
 
 	}
 }
